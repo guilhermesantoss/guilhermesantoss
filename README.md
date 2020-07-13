@@ -1,6 +1,6 @@
-### Hi there 👋
+# Guilherme Santos 😎
 
-Meu nome é **Guilherme Santos**, trabalho como **Front-End Developer** desde 2012 onde comecei a minha aventura no mundo da Programação.
+Trabalho como **Front-End Developer** desde 2012, onde comecei a minha aventura no mundo da Programação Web.
 
 **Tecnologias utilizadas**: HTML, CSS, React, React Native, Node.js, Javascript, TypeScript entre outras.
 
@@ -9,5 +9,5 @@ Meu nome é **Guilherme Santos**, trabalho como **Front-End Developer** desde 20
 <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-santoss)](https://www.linkedin.com/in/guilherme-santoss)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:g.santos.sfc@gmail.com)](mailto:g.santos.sfc@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-g.santos.sfc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:g.santos.sfc@gmail.com)](mailto:g.santos.sfc@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/guilhermesantoss)](https://github.com/guilhermesantoss)
