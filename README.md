@@ -2,11 +2,10 @@
 
 Meu nome é **Guilherme Santos**, trabalho como **Front-End Developer** desde 2012 onde comecei a minha aventura no mundo da Programação.
 
-Tecnologias utilizadas: HTML, CSS, React, React Native, Node.js, Javascript, TypeScript entre outras.
+**Tecnologias utilizadas**: HTML, CSS, React, React Native, Node.js, Javascript, TypeScript entre outras.
 
-Tenho alguns hobbies: tocar violão 🎸, jogar online 🎮, ver filmes e séries 🎬 e codar 💻.
+**Tenho alguns hobbies**: tocar violão 🎸, jogar online 🎮, ver filmes e séries 🎬 e codar 💻.
 
-<br />
 <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-santoss)](https://www.linkedin.com/in/guilherme-santoss)
