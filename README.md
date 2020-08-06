@@ -8,6 +8,8 @@ Trabalho como **Front-End Developer** desde 2012, onde comecei a minha aventura 
 
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesantoss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-santoss)](https://www.linkedin.com/in/guilherme-santoss)
 [![Gmail Badge](https://img.shields.io/badge/-g.santos.sfc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:g.santos.sfc@gmail.com)](mailto:g.santos.sfc@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/guilhermesantoss)](https://github.com/guilhermesantoss)
