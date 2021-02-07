@@ -2,7 +2,7 @@
 
 Trabalho como **Front-End Developer** desde 2012, onde comecei a minha aventura no mundo da Programação Web.
 
-**Tecnologias utilizadas**: HTML, CSS, React, React Native, Node.js, Javascript, TypeScript entre outras.
+**Tecnologias utilizadas**: HTML, CSS, React, React Native, Node.js, Javascript, TypeScript, Cypress, Next.js entre outras.
 
 **Tenho alguns hobbies**: tocar violão 🎸, jogar online 🎮, ver filmes e séries 🎬 e codar 💻.
 
