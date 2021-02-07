@@ -8,7 +8,7 @@ Trabalho como **Front-End Developer** desde 2012, onde comecei a minha aventura 
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesantoss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=guilhermesantoss&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://www.linkedin.com/in/guilherme-santoss/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/bladezika1"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
