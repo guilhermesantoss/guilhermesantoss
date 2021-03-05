@@ -2,9 +2,15 @@
 
 Trabalho como **Front-End Developer** desde 2012, onde comecei a minha aventura no mundo da Programação Web.
 
-**Hobbies**: tocar violão 🎸, jogar online 🎮, ver filmes e séries 🎬 e codar 💻.
+## Hobbies 
+```sh
+  $ tocar violão 🎸
+  $ jogar online 🎮
+  $ ver filmes e séries 🎬
+  $ codar 💻
+```
 
-## Tecnologias
+## Tecnologias utilizadas
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
