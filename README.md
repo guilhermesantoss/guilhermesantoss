@@ -1,7 +1,7 @@
 # Guilherme Santos ✅
 ```sh
-Trabalho como **Front-End Developer** desde 2012, onde comecei a programar utilizando as tecnologias:
-HTML, CSS, Javascript, JQuery, PHP e MySQL, e atualmente estou trabalhando no **Universo Online S.A = "UOL"**.
+Trabalho como Front-End Developer desde 2012, onde comecei a programar utilizando as tecnologias:
+HTML, CSS, Javascript, JQuery, PHP e MySQL, e atualmente estou trabalhando na empresa Universo Online S.A
 ```
 
 ## Hobbies 
