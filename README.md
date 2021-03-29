@@ -1,6 +1,6 @@
 # Guilherme Santos 😎
 
-Trabalho como **Front-End Developer** desde 2012, onde comecei a minha aventura no mundo da Programação Web.
+Trabalho como **Front-End Developer** desde 2012, onde comecei a programar utilizando as tecnologias HTML, CSS, Javascript, JQuery, PHP e MySQL, e atualmente estou trabalhando no **Universo Online S.A = "UOL"**.
 
 ## Hobbies 
 ```sh
@@ -10,7 +10,7 @@ Trabalho como **Front-End Developer** desde 2012, onde comecei a minha aventura 
   $ codar 💻
 ```
 
-## Tecnologias utilizadas
+<!--## Tecnologias utilizadas
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -27,7 +27,7 @@ Trabalho como **Front-End Developer** desde 2012, onde comecei a minha aventura 
   <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>
-</p>
+</p>-->
 
 <br />
 
